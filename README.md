@@ -9,7 +9,7 @@ This template is meant to be used with [Wrangler](https://github.com/cloudflare/
 To generate using Wrangler, run this command:
 
 ```bash
-wrangler generate my-app-project https://github.com/thetre/worker-typescript-template
+wrangler generate my-app-project https://github.com/thetre/worker-shopify-template
 ```
 
 ### 👩 💻 Developing
